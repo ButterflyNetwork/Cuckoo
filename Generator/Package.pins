@@ -35,7 +35,7 @@
       "package": "SWXMLHash",
       "reason": null,
       "repositoryURL": "https://github.com/drmohundro/SWXMLHash.git",
-      "version": "3.0.4"
+      "version": "4.1.1"
     },
     {
       "package": "SourceKit",
@@ -47,7 +47,7 @@
       "package": "SourceKitten",
       "reason": null,
       "repositoryURL": "https://github.com/jpsim/SourceKitten.git",
-      "version": "0.17.2"
+      "version": "0.18"
     },
     {
       "package": "Spectre",
